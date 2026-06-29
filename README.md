@@ -1,8 +1,12 @@
 # About Me
 
-Hi there 🔥
+Hello! I'm Christian 👋
 
-My name is Christian, I'm a Frontend developer. I'm happy to devote my time to web development from pure Server-Side-Rendering (SSR) applications to Single-Page-Applications (SPA) with possible SSR in addition.
+Frontend Developer from Moldova 🇲🇩
+
+Passionate about building modern web applications with React, Next.js, and TypeScript.
+
+I enjoy contributing to open-source projects and learning from the developer community. Always learning. Always improving.
 
 ## Socials
 
